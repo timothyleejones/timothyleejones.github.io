@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Timothy L. Jones / Political Scientist"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
