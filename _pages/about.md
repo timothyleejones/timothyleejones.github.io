@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me <br/><img src='/images/500x300.png'"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+image: /images/500x300.png
 
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
