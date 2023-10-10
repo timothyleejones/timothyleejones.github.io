@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![image](https://github.com/timothyleejones/timothyleejones.github.io/assets/105054782/86e64bee-1bf2-4fec-ac6c-a80971931867)
-
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
 My current research falls under two broad, intersecting themes: (1) explaining patterns of political violence for state and non-state actors; (2) investigating how different strategies and institutions can quell violence and promote peace. This work is part of a larger substantive research agenda that explores how intrastate and interstate conflicts evolve, how the allocation of resources and adoption of different countermeasures or institutions can establish political order, and how global competition over contested areas exacerbates violence.
