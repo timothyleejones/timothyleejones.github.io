@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](/images/los_horres_de_la_guerra.png)
+![Los Horres de la Guerra](/images/los_horres_de_la_guerra.png)
 
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
