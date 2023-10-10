@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![test image]
-(https://github.com/timothyleejones/timothyleejones.github.io/blob/master/_pages/about.md#:~:text=3953273590_704e3899d5_m.jpg-,500x300,-.png)
+(/images/500x300.png)
 
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
