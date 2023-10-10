@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![test image]
-(/images/500x300.png)
+![test image](/images/500x300.png)
 
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
