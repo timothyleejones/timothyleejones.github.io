@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![image](https://github.com/timothyleejones/timothyleejones.github.io/assets/105054782/86e64bee-1bf2-4fec-ac6c-a80971931867)
+
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
 My current research falls under two broad, intersecting themes: (1) explaining patterns of political violence for state and non-state actors; (2) investigating how different strategies and institutions can quell violence and promote peace. This work is part of a larger substantive research agenda that explores how intrastate and interstate conflicts evolve, how the allocation of resources and adoption of different countermeasures or institutions can establish political order, and how global competition over contested areas exacerbates violence.
@@ -17,9 +19,6 @@ I have extensive experience in conflict zones, with over a decade providing inte
 I received my Ph.D. from the Department of Political Science at the University of Michigan. I also hold degrees from the School of Global Policy and Strategy at the University of California San Diego (M.I.A.), the National Intelligence University (M.S.S.I), American Military University (B.A.), and Indiana University (B.A).
 
 My research has been published in (or is forthcoming) in the International Journal of Cyber Warfare & Terrorism.  
-
-![image](https://github.com/timothyleejones/timothyleejones.github.io/assets/105054782/86e64bee-1bf2-4fec-ac6c-a80971931867)
-
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
