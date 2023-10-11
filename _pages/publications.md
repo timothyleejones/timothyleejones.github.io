@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-Meta-Analysis & the Integration of Terrorism Event Databases
+#### Meta-Analysis & the Integration of Terrorism Event Databases
 Timothy L. Jones "Meta-Analysis & the Integration of Terrorism Event Databases," *International Journal of Cyber Warfare & Terrorism*. (Invited to Revise & Rewrite, 2023).
 
 <details>
