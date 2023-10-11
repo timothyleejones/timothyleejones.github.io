@@ -1,4 +1,4 @@
-I have extensive experience teaching at the graduate and undergraduate levels, both in substantive topics and in research tools for the social sciences. At the University of Michigan, I have designed courses at the graduate level for social science computing and I have served as a Graduate Student Instructor for four full-term classes in international relations and comparative politics in the Department of Political Science. During government and military service, I conducted instruction in analytic writing and tradecraft, and applied geospatial information services.
+I have extensive experience teaching at the graduate and undergraduate levels, both in substantive topics and in research tools for the social sciences. At the University of Michigan, I designed courses at the graduate level for social science computing and I served as a Graduate Student Instructor for full-term classes in international relations and comparative politics in the Department of Political Science. During government and military service, I conducted instruction in analytic writing and tradecraft, and applied geospatial information services.
 
 ---
 title: "Teaching experience 2"
