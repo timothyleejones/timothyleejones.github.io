@@ -13,6 +13,6 @@ I have extensive experience teaching at the graduate and undergraduate levels, b
 *Format*: Graduate lecture/lab (13 students)  
 *Offered*: Fall 2022  
 *Status*: Instructor of Record  
-*Syllabus*: [Syllabus](/files/Curriculum_Vitae_short.pdf)
+*Syllabus*: [Download PDF](/files/PS514_Syllabus_FA22.pdf)
 
 
