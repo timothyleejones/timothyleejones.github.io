@@ -9,14 +9,10 @@ I have extensive experience teaching at the graduate and undergraduate levels, b
 
 ### The Use of Social Science Computer Programs
 
-Course number(s): Political Science 514.001 (Michigan)
-
-Format: Graduate lecture/lab (13 students)
-
-Offered: Fall 2022
-
-Status: Instructor of Record
-
+Course number(s): Political Science 514.001 (Michigan)  
+Format: Graduate lecture/lab (13 students)  
+Offered: Fall 2022  
+Status: Instructor of Record  
 Syllabus: [Syllabus](/files/Curriculum_Vitae_short.pdf)
 
 
