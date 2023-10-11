@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
-My current research explains variation in patterns of political violence for state and non-state actors and illuminates how different strategies can best quell violence and promote peace. This work is part of a larger substantive research agenda that explores how armed conflicts evolve, how the allocation of resources and adoption of different countermeasures can establish political order, and how global competition over contested areas exacerbates violence.
+My current research explains variation in patterns of violence for state and non-state actors in intrastate conflicts. This work is part of a larger substantive research agenda that explores how armed conflicts evolve, how the allocation of resources and adoption of different countermeasures can best establish political order, and how global competition over contested areas exacerbates violence.
 
 This work is motivated and informed from extensive experience in conflict zones, having spent over a decade serving in the special operations and intelligence communities providing intelligence support to counterterrorism, counter weapons of mass destruction (WMD) proliferation, and hostage rescue operations across the globe.
 
