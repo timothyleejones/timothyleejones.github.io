@@ -12,8 +12,17 @@ Title 1
 
 <summary>Abstract</summary>
 
+<details>
+  
+
 ## Working Papers
 
+Title 2
+<details>
+
+<summary>Abstract</summary>
+  
+</details>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
