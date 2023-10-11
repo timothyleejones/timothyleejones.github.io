@@ -28,7 +28,7 @@ I have extensive experience teaching at the graduate and undergraduate levels, b
 *Course number(s)*: Political Science 368.002,368.005,368.006 (Michigan)  
 *Format*: Undergraduate discussion/lab (75 students)   
 *Offered*: Fall 2019  
-*Status*: Graduate Student Instructor w/ Yuzi Zhukov (Instructor of Record)
+*Status*: Graduate Student Instructor w/ Yuri Zhukov (Instructor of Record)
 *Syllabus*: [Download PDF](/files/PS368_Syllabus_FA19.pdf)
 
 ### Introduction to World Politics
