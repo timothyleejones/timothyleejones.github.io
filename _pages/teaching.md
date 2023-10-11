@@ -21,7 +21,7 @@ I have extensive experience teaching at the graduate and undergraduate levels, b
 *Format*: Underaduate lecture/lab (60 students) 
 *Offered*: Fall 2021 
 *Status*: Graduate Student Instructor 
-*Syllabus*: [Download PDF](/files/PS514_Syllabus_FA22.pdf)
+*Syllabus*: [Download PDF](/files/PS352_Syllabus_FA21.pdf)
 
 ### Modern Warfare
 
@@ -29,20 +29,20 @@ I have extensive experience teaching at the graduate and undergraduate levels, b
 *Format*: Undergraduate discussion/lab (75 students) 
 *Offered*: Fall 2019
 *Status*: Graduate Student Instructor 
-*Syllabus*: [Download PDF](/files/PS514_Syllabus_FA22.pdf)
+*Syllabus*: [Download PDF](/files/PS368_Syllabus_FA19.pdf)
 
 ### Introduction to World Politics
 
 *Course number(s)*: Political Science 160.002,160.004,160.005 (Michigan)
 *Format*: Undergraduate discussion/lab (60 students) 
-*Offered*: Fall 2018, Fall 2019
+*Offered*: Fall 2018, Fall 2020
 *Status*: Graduate Student Instructor 
-*Syllabus*: [Download PDF](/files/PS514_Syllabus_FA22.pdf)
+*Syllabus*: [Download PDF](/files/PS160_Syllabus_FA18.pdf), [Download PDF](/files/PS160_Syllabus_FA20.pdf)
 
 ### World Poverty
 
-*Course number(s)*: International Studies102.A03,102.A04: (UCSD)
+*Course number(s)*: International Studies 102.A03,102.A04: (UCSD)
 *Format*: Undergraduate discussion/lab (60 students) 
 *Offered*: Fall 2016
 *Status*: Teaching Assistant 
-*Syllabus*: [Download PDF](/files/PS514_Syllabus_FA22.pdf)
+*Syllabus*: [Download PDF](/files/INTL102_Syllabus_FA16.pdf)
