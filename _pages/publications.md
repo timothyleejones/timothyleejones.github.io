@@ -5,9 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Peer-Reviewed 
+## Peer-reviewed Publications
 
-### Working Papers
+Title 1  
+<details>
+
+<summary>Abstract</summary>
+
+## Working Papers
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
