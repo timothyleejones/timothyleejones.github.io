@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Consequences of War](/images/los-horrores-de-la-guerra.png)
+![Consequences of War](/images/los-horrores-de-la-guerra.png 'test')
 
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
