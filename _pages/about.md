@@ -11,10 +11,12 @@ redirect_from:
 
 I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
 
-My current research explains variation in patterns of violence for state and non-state actors in intrastate conflicts. This work is part of a larger substantive research agenda that explores how armed conflicts evolve, how the allocation of resources and adoption of different countermeasures can best establish political order, and how global competition over contested areas exacerbates violence.
+In my current research, I delve into the intricate dynamics that underlie the varying patterns of violence exhibited by state and non-state actors within intrastate conflicts. This effort is part of a larger research agenda, which helps unravel the complex evolution of armed conflicts. Through this research, I aim to enhance our comprehension of how the allocation of resources and the implementation of different countermeasures can effectively establish and sustain political order, while also shedding light on how global competition over contested areas exacerbates violence.
 
-This work is motivated and informed from extensive experience in conflict zones, having spent over a decade serving in the special operations and intelligence communities providing intelligence support to counterterrorism, counter weapons of mass destruction (WMD) proliferation, and hostage rescue operations across the globe.
+This work is motivated and informed by over a decade of service in conflict zones. I had the privilege of serving within the Special Operations and Intelligence Communities, where I provided critical intelligence support across a spectrum of operations. These missions encompassed counterterrorism efforts, the prevention of weapons of mass destruction (WMD) proliferation, and hostage rescue operations across the globe.
 
 I received my Ph.D. from the Department of Political Science at the University of Michigan. I also hold degrees from the School of Global Policy and Strategy at the University of California San Diego (M.I.A.), the National Intelligence University (M.S.S.I), American Military University (B.A.), and Indiana University (B.A).
+
+This amalgamation of rigorous academic training and experience as a practitioner in national security forms the cornerstone of my commitment to enhancing our collective understanding of international relations, security studies, conflict dynamics and promoting the pursuit of more effective strategies for maintaining peace and stability in an increasingly complex world.
 
 My research has been published in (or is forthcoming) in the International Journal of Cyber Warfare & Terrorism.  
