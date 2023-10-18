@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![Consequences of War - Rubens](/images/los-horrores-de-la-guerra.png)
 
-I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS). 
+I am a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School (NPS) in Monterey, California. 
 
 In my current research, I delve into the intricate dynamics that underlie the varying patterns of violence exhibited by state and non-state actors within intrastate conflicts. This effort is part of a larger research agenda, which helps unravel the complex evolution of armed conflicts, terrorism, and rebellion. Through this research, I aim to enhance our comprehension of how the allocation of resources and the implementation of different countermeasures can effectively establish and sustain political order, while also shedding light on how global competition over contested areas exacerbates violence.
 
