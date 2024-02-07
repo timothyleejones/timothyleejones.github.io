@@ -19,4 +19,4 @@ I received my Ph.D. from the Department of Political Science at the University o
 
 This amalgamation of rigorous academic training and experience as a practitioner in national security forms the cornerstone of my commitment to research and instruction that enhances our collective understanding of international relations, security studies, conflict dynamics and promotes the pursuit of more effective strategies for maintaining peace and stability in an increasingly complex world.
 
-My research has been published in (or is forthcoming) in the International Journal of Cyber Warfare & Terrorism.  
+My research has been published in (or is forthcoming) in the International Journal of Cyber Warfare & Terrorism and The Hill.  
