@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-reviewed Publications
 
 **Meta-Analysis & the Integration of Terrorism Event Databases**    
-Timothy L. Jones "Meta-Analysis & the Integration of Terrorism Event Databases," *International Journal of Cyber Warfare & Terrorism (IJCWT) 13 (1), 1-20.* [Publisher's Version]([https://github.com](https://www.igi-global.com/article/meta-analysis-and-the-integration-of-terrorism-event-databases/335944)
+Timothy L. Jones "Meta-Analysis & the Integration of Terrorism Event Databases," *International Journal of Cyber Warfare & Terrorism (IJCWT) 13 (1), 1-20.* [Publisher's Version](https://www.igi-global.com/article/meta-analysis-and-the-integration-of-terrorism-event-databases/335944)
 
 <details>
 <summary>Abstract</summary>
