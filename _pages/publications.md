@@ -48,3 +48,9 @@ Can developmental aid and coercive strategies work in concert to enhance the dur
 
 **Peace Agreements and the Persuasive Authority of International Law** [co-author with Gregory Fox, Wayne State University]
 
+## General Audience Publications
+
+**What the candidates can learn from two former presidents about foreign policy**    
+Timothy L. Jones "What the candidates can learn from two former presidents about foreign policy," *The Hill, 21 January, 2024.* [Link]([https://www.igi-global.com/article/meta-analysis-and-the-integration-of-terrorism-event-databases/335944](https://thehill.com/opinion/international/4417080-what-the-candidates-should-learn-from-two-former-presidents-about-foreign-policy/)https://thehill.com/opinion/international/4417080-what-the-candidates-should-learn-from-two-former-presidents-about-foreign-policy/)
+
+
