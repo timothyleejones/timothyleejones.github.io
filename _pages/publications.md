@@ -32,6 +32,13 @@ The UN’s association with higher inclusion of international norms, as well as 
 
 </details>
 
+## General Audience Publications
+
+**What the candidates can learn from two former presidents about foreign policy**    
+Timothy L. Jones "What the candidates can learn from two former presidents about foreign policy," [w/ David Dezso] *The Hill, 21 January, 2024.* [Link](https://thehill.com/opinion/international/4417080-what-the-candidates-should-learn-from-two-former-presidents-about-foreign-policy/)
+
+</details>
+
 ## Working Papers
 
 **Under Pressure: Diversification in Rebel Strategies**
@@ -41,18 +48,18 @@ The UN’s association with higher inclusion of international norms, as well as 
 Why and when do rebels bundle different violent strategies in pursuit of desired objectives in civil war? Answering this question is complicated as different forms of contention are often studied in isolation at high levels of temporal aggregation. However, militant organizations in civil wars frequently adopt and discard a range of strategies over the course of a conflict. This paper advances and tests the theory that strategic diversification by rebel groups is part of the interdependent process of violence amongst belligerents in civil wars. By introducing a dynamic measure of state lethal operations, I find that militant groups expand and contract violent repertoires in response to variation in pressure levied upon them by the state. The findings provide new insight into adaptive behavior of rebel groups and the timing of violence. This work has important implications in the evaluation of countermeasures and the formation of policies seeking to prevent and reduce the occurrence of political violence.
 </details>
 
+**Taking Out the Competition: Lessons from Algeria on Rebel Targeting of Nonviolent Resistance Campaigns** [co-author with Martin Macias-Medellin, Univesity of Michigan]
+<details>
+
+<summary>Abstract</summary>
+To what extent does competition shape rebel behavior in civil war? While scholars have increasingly scrutinized the impact of multiple armed rebel groups on conflict dynamics, this study also considers a less examined aspect: the influence of nonviolent rivals. We posit that rebel groups strategically target high-profile social personalities during periods of fragmented opposition, viewing them as a threat to their political relevance and authority, to bolster their support base, and eliminate alternative means to challenge the state. As nonviolent resistance campaigns diminish or disappear, rebel groups pivot their attention towards targeting rival militant factions, state security forces, and the general population. Our theory is substantiated through an original dataset detailing violent events in Algeria from 1988 to 2001, supplemented by a large-N analysis encompassing 36 civil wars spanning from 1972 to 2020. This research sheds new light on the targeting behavior of rebel groups and underscores the significance of considering both violent and nonviolent dimensions in understanding civil conflict dynamics.    
+</details>
+
 **Changes: Patterns of Violence in Civil War**
 <details>
 
 <summary>Abstract</summary>
 What explains variation in patterns of violence across time and space in armed conflict? Understanding the sources of heterogeneity in violence over time and across different locations can provide insights into the ways in which armed conflict adapts and evolves, and potential ways to anticipate and respond to these changes with more effective policies and countermeasures. However, identification of and insight into patterns can be limited by the reliance upon narrow and incomplete measures. This paper introduces a novel measurement strategy to consider patterns of violence POV in civil wars. This approach integrates and organizes data from leading conflict event datasets along the following dimensions: target, force, and magnitude for government forces and challengers in 33 civil wars in 26 countries from 1997 to 2021. This approach and accompanying dataset provides a unique opportunity to analyze mechanisms shaping heterogeneity in violence and explore under what conditions different patterns of violence may emerge. In this paper, I demonstrate how the this measurement strategy improve identification and analysis of trends and illustrate the research questions it could help answer. By leveraging this approach, scholars and policymakers can gain a better understanding of the drivers of violence in armed conflict and develop more effective strategies to reduce its occurrence.
-</details>
-
-**Rebel Rebel: Competition on the Battlefield**
-<details>
-
-<summary>Abstract</summary>
-To what extent does competition among rebel groups influence the dynamics of violence in civil wars? While previous research has suggested that increased competition results in higher levels of violence, the specific mechanisms behind this escalation warrants further investigation. Additionally, competition may also shape rebel group strategic behavior in other meaningful ways. Drawing on a novel dataset that captures levels of strategic diversity and competition for 623 rebel groups across 30 civil wars in 25 countries between 1997 and 2021, I find that the mere presence of rivals is not enough to prompt rebels to alter their strategies. However, in highly competitive environments where rivals employ a diverse range of strategies, rebel groups are more likely to expand their own repertoires of violence. This expansion is not limited to violence against civilians, but also encompasses the targeting of other actors and variation in weapon systems and tactics. As strategic diversification is associated with increased output, this study provides insight into how outbidding unfolds. By taking into account not only the variation in the number of belligerents but also the diversity in their competing behavior, we gain a more nuanced understanding of how civil wars develop and change over time.  
 </details>
 
 **The Dynamics of Territorial Control and Wartime Aid**
@@ -61,12 +68,4 @@ To what extent does competition among rebel groups influence the dynamics of vio
 <summary>Abstract</summary>
 Can developmental aid and coercive strategies work in concert to enhance the durability and quality of peace in war-torn communities? This paper contributes to the burgeoning body of research on counterinsurgency practices by offering novel insights and data on the relationship between wartime aid and the establishment of political stability by investigating whether territorial control is precondition for the efficacy of aid provisions, or if alternatively, aid can serve as an instrument to establish control in contested areas. This study also tests the assumption that wartime aid can bolster cooperation and intelligence sharing from the local population to the counterinsurgent and hinder such flows to rebel groups by delving deeper into the evolution of the quality and nature of violence perpetrated by belligerents. The implications of this research are important for conflict management and peacebuilding discourse. It contributes to ongoing debates concerning resource allocation in conflict zones and the strategic sequencing of priorities aimed at constructing enduring peace and stable governance structures. This work can also help differentiate between successful and unsuccessful counterinsurgency practices, enriching our comprehension of the factors underlying the varying outcomes of aid initiatives.  
 </details>
-
-**Peace Agreements and the Persuasive Authority of International Law** [co-author with Gregory Fox, Wayne State University]
-
-## General Audience Publications
-
-**What the candidates can learn from two former presidents about foreign policy**    
-Timothy L. Jones "What the candidates can learn from two former presidents about foreign policy," [w/ David Dezso] *The Hill, 21 January, 2024.* [Link](https://thehill.com/opinion/international/4417080-what-the-candidates-should-learn-from-two-former-presidents-about-foreign-policy/)
-
 
