@@ -17,19 +17,18 @@ Why do terrorist attacks occur in certain places and times but not others? Despi
 
 ## Editor-reviewed Publications
 
-**Peace Agreements and the Persuasive Authority of International Law**
+**Peace Agreements and the Persuasive Authority of International Law** <br>
 Gregory H. Fox & Timothy L. Jones "Peace Agreements and the Persuasive Authority of International Law," *Minnesota Journal of Iternational Law, (forthcoming).*
 <details>
 
 <summary>Abstract</summary>
-Non-international armed conflicts, or “NIACs,” are the most common form of warfare in the contemporary era. Not surprisingly, agreements ending NIACs are the most common type of peace agreement. But NIAC agreements appear permanently suspended in an international legal limbo: they do not qualify as binding treaties and neither international actors nor scholars agree on another legal status. <br>
+Non-international armed conflicts, or “NIACs,” are the most common form of warfare in the contemporary era. Not surprisingly, agreements ending NIACs are the most common type of peace agreement. But NIAC agreements appear permanently suspended in an international legal limbo: they do not qualify as binding treaties and neither international actors nor scholars agree on another legal status. <br><br>
 
-This article is the second in a series to explore alternatives to the binding/non-binding dichotomy in understanding NIAC agreements’ relation to international law. We collected and coded all final NIAC agreements from 1991 to 2017 for incorporation of a range of international law principles, grouped primarily as those related to governance in the post-conflict state and those pertaining to transitional justice. We proposed a series of hypotheses as to why some agreements might have higher rates of incorporation and some lower. 
+This article is the second in a series to explore alternatives to the binding/non-binding dichotomy in understanding NIAC agreements’ relation to international law. We collected and coded all final NIAC agreements from 1991 to 2017 for incorporation of a range of international law principles, grouped primarily as those related to governance in the post-conflict state and those pertaining to transitional justice. We proposed a series of hypotheses as to why some agreements might have higher rates of incorporation and some lower.<br><br> 
 
-Our primary findings reveal: (i) a notable increase in the incorporation of transitional justice principles, not governance principles, when the United Nations assumes roles such as party, mediator, observer, or witness; (ii) a decrease in international law incorporation, when regional organizations are involved in any capacity; and (iii) an associated decrease in overall international law incorporation, specifically governance principles, as conflicts become more lethal or focus on territorial disputes. 
+Our primary findings reveal: (i) a notable increase in the incorporation of transitional justice principles, not governance principles, when the United Nations assumes roles such as party, mediator, observer, or witness; (ii) a decrease in international law incorporation, when regional organizations are involved in any capacity; and (iii) an associated decrease in overall international law incorporation, specifically governance principles, as conflicts become more lethal or focus on territorial disputes. <br><br>
 
-The UN’s association with higher inclusion of international norms, as well as the ubiquity of including governance norms when any third party joins a NIAC peace process, casts the agreements as important vehicles for implementing and enforcing international legal principles. This role for international law is not dependent on the agreements’ formal status. But the critical participation of the UN -- an organization not only built on fidelity to international law but that instructs its representatives to employ international law as a framework for peace process -- is also a marker of this role’s fragility. Recent gridlock in the UN may have dire implications for this mode of legal influence.
-![image](https://github.com/timothyleejones/timothyleejones.github.io/assets/105054782/cf441e14-924a-4ed0-8140-40a5accdadd5)
+The UN’s association with higher inclusion of international norms, as well as the ubiquity of including governance norms when any third party joins a NIAC peace process, casts the agreements as important vehicles for implementing and enforcing international legal principles. This role for international law is not dependent on the agreements’ formal status. But the critical participation of the UN -- an organization not only built on fidelity to international law but that instructs its representatives to employ international law as a framework for peace process -- is also a marker of this role’s fragility. Recent gridlock in the UN may have dire implications for this mode of legal influence. <br><br>
 
 </details>
 
