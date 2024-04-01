@@ -35,6 +35,9 @@ The UN’s association with higher inclusion of international norms, as well as 
 
 **What the candidates can learn from two former presidents about foreign policy**    
 Timothy L. Jones "What the candidates can learn from two former presidents about foreign policy," [w/ David Dezso] *The Hill, 21 January, 2024.* [Link](https://thehill.com/opinion/international/4417080-what-the-candidates-should-learn-from-two-former-presidents-about-foreign-policy/)
+<details>
+  
+</details>
 
 ## Working Papers
 
