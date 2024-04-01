@@ -18,11 +18,11 @@ Why do terrorist attacks occur in certain places and times but not others? Despi
 ## Editor-reviewed Publications
 
 **Peace Agreements and the Persuasive Authority of International Law**
-Gregory H. Fox & Timothy L. Jones "Peace Agreements and the Persuasive Authority of International Law," *Minnesota Journal of Iternational Law 1 (34) (forthcoming).*
+Gregory H. Fox & Timothy L. Jones "Peace Agreements and the Persuasive Authority of International Law," *Minnesota Journal of Iternational Law, (forthcoming).*
 <details>
 
 <summary>Abstract</summary>
-Non-international armed conflicts, or “NIACs,” are the most common form of warfare in the contemporary era. Not surprisingly, agreements ending NIACs are the most common type of peace agreement. But NIAC agreements appear permanently suspended in an international legal limbo: they do not qualify as binding treaties and neither international actors nor scholars agree on another legal status. 
+Non-international armed conflicts, or “NIACs,” are the most common form of warfare in the contemporary era. Not surprisingly, agreements ending NIACs are the most common type of peace agreement. But NIAC agreements appear permanently suspended in an international legal limbo: they do not qualify as binding treaties and neither international actors nor scholars agree on another legal status. <br>
 
 This article is the second in a series to explore alternatives to the binding/non-binding dichotomy in understanding NIAC agreements’ relation to international law. We collected and coded all final NIAC agreements from 1991 to 2017 for incorporation of a range of international law principles, grouped primarily as those related to governance in the post-conflict state and those pertaining to transitional justice. We proposed a series of hypotheses as to why some agreements might have higher rates of incorporation and some lower. 
 
