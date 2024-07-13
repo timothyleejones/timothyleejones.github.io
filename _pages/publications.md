@@ -38,7 +38,7 @@ Timothy L. Jones "What the candidates can learn from two former presidents about
 
 ## Working Papers
 
-**Under Pressure: Diversification in Rebel Strategies**, *under review.
+**Under Pressure: Diversification in Rebel Strategies**, *under review.*
 
 <details>
 <summary>Abstract</summary>
