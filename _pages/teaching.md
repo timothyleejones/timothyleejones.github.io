@@ -8,6 +8,7 @@ author_profile: true
 I have experience teaching and designing courses at the graduate and undergraduate levels, both in substantive topics and in research methods for the social sciences. At the Naval Postgraduate School, I designed a course for military and interagency professionals that equips them with critical thinking skills and specialized knowledge to navigate complexities and enhance decision-making. The course covers quantitative and qualitative methodologies, analytic models, and forecasting tools. Students learn intelligence warning processes, structured analytic methods, and strategies for effective intelligence communication to support military operations and policy formation. At the University of Michigan, I designed courses at the graduate level for data analysis and social science computing and I served as a Graduate Student Instructor for full-term undergraduate classes in international relations and comparative politics in the Department of Political Science. During my government and military tenure, I regularly conducted instruction in analytic writing and tradecraft and applied geospatial information services.
 
 ### Intelligence, Surprise, and Special Operations: Methods for Identifying Uncertainty and Forecasting the Future 
+
 Course number(s)*: Defense Analysis DA4500 (NPS)
 *Format*: Graduate seminar
 *Offered*: Fall 2024
