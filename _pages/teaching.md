@@ -9,8 +9,8 @@ I have experience teaching and designing courses at the graduate and undergradua
 
 ### Intelligence, Surprise, and Special Operations: Methods for Identifying Uncertainty and Forecasting the Future 
 
-*Course number(s)*: Defense Analysis DA4500 (NPS)
-*Format*: Graduate seminar
+*Course number(s)*: Defense Anaysis DA4500 (NPS)  
+*Format*: Graduate seminar    
 *Offered*: Fall 2024  
 *Status*: Instructor of Record
 
