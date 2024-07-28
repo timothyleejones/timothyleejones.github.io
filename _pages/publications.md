@@ -65,17 +65,3 @@ To what extent does competition shape rebel behavior in civil war? While scholar
 <summary>Abstract</summary>
 What explains variation in patterns of violence across time and space in armed conflict? Understanding the sources of heterogeneity in violence over time and across different locations can provide insights into the ways in which armed conflict adapts and evolves, and potential ways to anticipate and respond to these changes with more effective policies and countermeasures. However, identification of and insight into patterns can be limited by the reliance upon narrow and incomplete measures. This paper introduces a novel measurement strategy to consider patterns of violence POV in civil wars. This approach integrates and organizes data from leading conflict event datasets along the following dimensions: target, force, and magnitude for government forces and challengers in 33 civil wars in 26 countries from 1997 to 2021. This approach and accompanying dataset provides a unique opportunity to analyze mechanisms shaping heterogeneity in violence and explore under what conditions different patterns of violence may emerge. In this paper, I demonstrate how the this measurement strategy improve identification and analysis of trends and illustrate the research questions it could help answer. By leveraging this approach, scholars and policymakers can gain a better understanding of the drivers of violence in armed conflict and develop more effective strategies to reduce its occurrence.
 </details>
-
-Here is a talk I recently gave:
-
-<div style="text-align: center;">
-  <a href="https://www.dropbox.com/scl/fi/1te4qcbg96gyfb7u85we8/CTX-Conversation-Anzalone.mp4?rlkey=wdj7w1jyiy6cgqkkm8m9c4c1r&st=2l7v4v4i&raw=1" target="_blank">
-    <img src="/images/ctx_photo_1.jpeg" alt="CTX Conversation" style="width:600px;"/>
-  </a>
-  <div style="margin-top: 10px;">
-    <h3>Title of the Talk</h3>
-    <p>Description of the talk goes here. You can provide an overview of the talk, key points discussed, and any other relevant information.</p>
-  </div>
-</div>
-
-
