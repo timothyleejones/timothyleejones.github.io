@@ -66,17 +66,16 @@ To what extent does competition shape rebel behavior in civil war? While scholar
 What explains variation in patterns of violence across time and space in armed conflict? Understanding the sources of heterogeneity in violence over time and across different locations can provide insights into the ways in which armed conflict adapts and evolves, and potential ways to anticipate and respond to these changes with more effective policies and countermeasures. However, identification of and insight into patterns can be limited by the reliance upon narrow and incomplete measures. This paper introduces a novel measurement strategy to consider patterns of violence POV in civil wars. This approach integrates and organizes data from leading conflict event datasets along the following dimensions: target, force, and magnitude for government forces and challengers in 33 civil wars in 26 countries from 1997 to 2021. This approach and accompanying dataset provides a unique opportunity to analyze mechanisms shaping heterogeneity in violence and explore under what conditions different patterns of violence may emerge. In this paper, I demonstrate how the this measurement strategy improve identification and analysis of trends and illustrate the research questions it could help answer. By leveraging this approach, scholars and policymakers can gain a better understanding of the drivers of violence in armed conflict and develop more effective strategies to reduce its occurrence.
 </details>
 
+Here is a talk I recently gave:
 
-<details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2 border-bottom">
-    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
-    <path fill-rule="evenodd" d="..."></path>
-</svg>
-    <span aria-label="Video description dotnet-evergreen.mp4" class="m-1">dotnet-evergreen.mp4</span>
-    <span class="dropdown-caret"></span>
-  </summary>
+<div style="text-align: center;">
+  <a href="https://www.dropbox.com/scl/fi/1te4qcbg96gyfb7u85we8/CTX-Conversation-Anzalone.mp4?rlkey=wdj7w1jyiy6cgqkkm8m9c4c1r&st=2l7v4v4i&raw=1" target="_blank">
+    <img src="files/ctx_photo_1.jpeg" alt="Talk Thumbnail" style="width:600px;"/>
+  </a>
+  <div style="margin-top: 10px;">
+    <h3>Title of the Talk</h3>
+    <p>Description of the talk goes here. You can provide an overview of the talk, key points discussed, and any other relevant information.</p>
+  </div>
+</div>
 
-  <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
-  </video>
-</details>
