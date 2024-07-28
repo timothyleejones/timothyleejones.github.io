@@ -70,7 +70,7 @@ Here is a talk I recently gave:
 
 <div style="text-align: center;">
   <a href="https://www.dropbox.com/scl/fi/1te4qcbg96gyfb7u85we8/CTX-Conversation-Anzalone.mp4?rlkey=wdj7w1jyiy6cgqkkm8m9c4c1r&st=2l7v4v4i&raw=1" target="_blank">
-    <img src="files/ctx_photo_1.jpeg" alt="Talk Thumbnail" style="width:600px;"/>
+    <img src="/images/ctx_photo_1.jpeg" alt="Talk Thumbnail" style="width:600px;"/>
   </a>
   <div style="margin-top: 10px;">
     <h3>Title of the Talk</h3>
