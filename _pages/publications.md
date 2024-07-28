@@ -69,7 +69,7 @@ What explains variation in patterns of violence across time and space in armed c
 Here is a talk I recently gave:
 
 <div style="text-align: center;">
-  <a href="https://www.dropbox.com/scl/fi/1te4qcbg96gyfb7u85we8/CTX-Conversation-Anzalone.mp4?rlkey=wdj7w1jyiy6cgqkkm8m9c4c1r&st=2l7v4v4i&dl=0" target="_blank">
+  <a href="https://www.dropbox.com/scl/fi/1te4qcbg96gyfb7u85we8/CTX-Conversation-Anzalone.mp4?rlkey=wdj7w1jyiy6cgqkkm8m9c4c1r&st=2l7v4v4i&raw=1" target="_blank">
     <img src="/images/los-horrores-de-la-guerra.png" alt="CTX Conversation" style="width:600px;"/>
   </a>
   <div style="margin-top: 10px;">
