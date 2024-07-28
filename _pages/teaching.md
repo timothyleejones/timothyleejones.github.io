@@ -51,5 +51,5 @@ I have experience teaching and designing courses at the graduate and undergradua
 *Course number(s)*: International Studies 102.A03,102.A04: (UCSD)  
 *Format*: Undergraduate discussion/lab (60 students)   
 *Offered*: Fall 2016  
-*Status*: Teaching Assistant w/ Stephen Haggard (Instructor of Record)
+*Status*: Teaching Assistant w/ Stephen Haggard (Instructor of Record)  
 *Syllabus*: [Download PDF](/files/INTL102_Syllabus_FA16.pdf)  
