@@ -45,7 +45,7 @@ Timothy L. Jones "What the candidates can learn from two former presidents about
 In civil wars, some rebel groups focus attacks against state forces, others emphasize the targeting of civilian population, and still others combine strategies. Why do some rebels diversify portfolios of violence at certain times and appear to specialize during other periods? Little attention has been paid to why and when rebels bundle different forms of violent contention. This article proposes that rebels expand and contract targets and use of force in response to fluctuations in pressure from government forces. I find consistent support this theory across 623 rebel groups in 30 civil wars spanning 25 countries from 1997 to 2021. Diversification appears to serve several purposes, stretching state resources, circumventing defensive measures, and improving rebel group survivability. When leveraging a natural experiment from decapitation strikes in Pakistan, I find that diversification in response to external pressure better explains outcomes than alternative theories, such as principal-agent problems. However, the benefits of diversification appear to come at the expense of rebels realizing strategic objectives. These findings offer new insight into adaptive behavior of rebel groups, with important implications for the formation and evaluation of policies and countermeasures aimed at preventing and managing conflict. 
 </details>
 
-**The Dynamics of Territorial Control and Wartime Aid**
+**The Dynamics of Territorial Control and Wartime Aid** [co-author with Daniel Karell, Yale University]
 
 <details>
 <summary>Abstract</summary>
