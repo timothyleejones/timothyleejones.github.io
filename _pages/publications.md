@@ -18,7 +18,7 @@ Why do terrorist attacks occur in certain places and times but not others? Despi
 ## Editor-reviewed Publications
 
 **Peace Agreements and the Persuasive Authority of International Law** <br>
-Gregory H. Fox & Timothy L. Jones "Peace Agreements and the Persuasive Authority of International Law," *Minnesota Journal of International Law, (forthcoming).*
+Gregory H. Fox & Timothy L. Jones "Peace Agreements and the Persuasive Authority of International Law," *Minnesota Journal of International Law, 34 (1) 1-86.* [Publisher's Version](https://minnjil.org/article/peace-agreements-and-the-persuasive-authority-of-international-law/)
 
 <details>
 <summary>Abstract</summary>
