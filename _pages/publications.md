@@ -46,6 +46,13 @@ Timothy L. Jones "What the candidates can learn from two former presidents about
 In civil wars, why do some rebel groups adopt diversify portfolios of violence, while others specialize? This article proposes that rebels expand and contract repertoires in response to fluctuating external pressure. An analysis of 623 rebel groups across 30 civil wars reveals that diversification allows rebels to increase attack rates, appearing to stretch state resources and evade defensive measures. Leveraging a natural experiment from decapitation strikes in Pakistan, I find that adaptation to pressure better explains rebel dynamics than alternative theories, such as principal-agent problems. While diversification enhances survivability, it appears to undermine rebels' ability to achieve strategic objectives. 
 </details>
 
+**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain** [co-author with John Willingham and Kenneth Walls] *under review*
+
+<details>
+<summary>Abstract</summary>
+This article examines how Irregular Warfare in the Maritime domain (IW-M) can strengthen national defense strategies for smaller states confronting more powerful naval adversaries. It argues that integrating special operations forces (SOF) into IW-M efforts provides a cost-effective, adaptable approach to defending littoral spaces, imposing costs, and enhancing deterrence. Drawing on historical examples and contemporary force design, this article identifies key conditions for success: strategic purpose, political backing, feasible objectives, and SOF integration. It offers practical insights for defense planners, emphasizing how purpose-built SOF units can address gaps in conventional naval posture. The article also highlights opportunities for SOF to assist partners through training, joint exercises, and low-cost technological adaptation. As great power competition increasingly plays out in contested waters, IW-M offers policymakers and military leaders a scalable, flexible toolset to counter aggression, defend sovereignty, and improve regional resilience—particularly where conventional options may be limited, unaffordable, or politically constrained. 
+</details>
+
 **The Sequencing of Territorial Control and Wartime Aid** [co-author with Daniel Karell, Yale University] *under review*
 
 <details>
