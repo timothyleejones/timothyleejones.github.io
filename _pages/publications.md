@@ -46,7 +46,7 @@ Timothy L. Jones "What the candidates can learn from two former presidents about
 In civil wars, why do some rebel groups adopt diversify portfolios of violence, while others specialize? This article proposes that rebels expand and contract repertoires in response to fluctuating external pressure. An analysis of 623 rebel groups across 30 civil wars reveals that diversification allows rebels to increase attack rates, appearing to stretch state resources and evade defensive measures. Leveraging a natural experiment from decapitation strikes in Pakistan, I find that adaptation to pressure better explains rebel dynamics than alternative theories, such as principal-agent problems. While diversification enhances survivability, it appears to undermine rebels' ability to achieve strategic objectives. 
 </details>
 
-**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain** [co-author with John Willingham and Kenneth Walls] *under review*
+**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain** [co-author with John Willingham and Kenneth Walls] *Revise & Resubmit*
 
 <details>
 <summary>Abstract</summary>
