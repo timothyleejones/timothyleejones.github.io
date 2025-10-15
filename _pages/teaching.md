@@ -11,7 +11,7 @@ I have experience teaching and designing courses at the graduate and undergradua
 
 *Course number(s)*: Defense Analysis DA3270 (NPS)  
 *Format*: Graduate seminar    
-*Offered*: Spring 2025 
+*Offered*: Spring 2025  
 *Status*: Instructor of Record
 
 ### Intelligence, Surprise, and Special Operations: Methods for Identifying Uncertainty and Forecasting the Future 
