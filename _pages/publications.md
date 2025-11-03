@@ -53,7 +53,7 @@ In civil wars, why do some rebel groups adopt diversify portfolios of violence, 
 This article examines how Irregular Warfare in the Maritime domain (IW-M) can strengthen national defense strategies for smaller states confronting more powerful naval adversaries. It argues that integrating special operations forces (SOF) into IW-M efforts provides a cost-effective, adaptable approach to defending littoral spaces, imposing costs, and enhancing deterrence. Drawing on historical examples and contemporary force design, this article identifies key conditions for success: strategic purpose, political backing, feasible objectives, and SOF integration. It offers practical insights for defense planners, emphasizing how purpose-built SOF units can address gaps in conventional naval posture. The article also highlights opportunities for SOF to assist partners through training, joint exercises, and low-cost technological adaptation. As great power competition increasingly plays out in contested waters, IW-M offers policymakers and military leaders a scalable, flexible toolset to counter aggression, defend sovereignty, and improve regional resilience—particularly where conventional options may be limited, unaffordable, or politically constrained. 
 </details>
 
-**The Sequencing of Territorial Control and Wartime Aid** [co-author with Daniel Karell, Yale University] *under review*
+**The Sequencing of Territorial Control and Wartime Aid** [co-author with Daniel Karell, Yale University] *Under Review*
 
 <details>
 <summary>Abstract</summary>
