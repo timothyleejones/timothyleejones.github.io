@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![Consequences of War - Rubens](/images/los-horrores-de-la-guerra.png)
 
-I am an America in the World Consortium Postdoctoral Fellow at Duke University’s Program in American Grand Strategy. Prior to this, I was a Faculty Associate for Research and a Donald R. Beall Defense Fellow in the Department of Defense Analysis at the Naval Postgraduate School in Monterey, California.
+I am an America in the World Consortium Postdoctoral Fellow at Duke University’s Program in American Grand Strategy and an affiliated Research Scholar with the Department of Defense Analysis at the Naval Postgraduate School in Monterey, California.
 
 My research seeks to bridge academic inquiry and operational experience to generate scholarship that informs U.S. foreign policy and addresses real-world national security challenges. In particular, I examine how special operations, intelligence, and international assistance can be leveraged to address contemporary security threats. This includes work on the evolving role of Special Operations Forces in strategic competition, the integration of intelligence into complex operational environments, and the design of aid strategies that support conflict resolution and political stability. Across these areas, I aim to generate insights that are both theoretically grounded and operationally relevant.
 
