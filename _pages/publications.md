@@ -37,7 +37,7 @@ The UN’s association with higher inclusion of international norms, as well as 
 **What the candidates can learn from two former presidents about foreign policy**    
 Timothy L. Jones "What the candidates can learn from two former presidents about foreign policy," [w/ David Dezso] *The Hill, 21 January, 2024.* [Link](https://thehill.com/opinion/international/4417080-what-the-candidates-should-learn-from-two-former-presidents-about-foreign-policy/)
 
-## Working Papers
+## Submitted Papers
 
 **Adapting Under Pressure: Diversification of Rebel Violence in Civil Wars**, *Revise & Resubmit*
 
@@ -59,6 +59,8 @@ This article examines how Irregular Warfare in the Maritime domain (IW-M) can st
 <summary>Abstract</summary>
 How does development aid affect insurgent violence, and under what conditions can it contribute to stabilization? While existing studies emphasize the importance of service provision in population-centric counterinsurgency, they often overlook how the effectiveness of aid varies across time and territory. This study examines the conditional effects of development aid on violence during the US-led war in Afghanistan. We construct and analyze twelve years of newly generated, fine-grained monthly estimates of territorial control, paired with data on over 63,000 development projects implemented through Afghanistan’s National Solidarity Program (NSP)—a low-cost, community-driven aid initiative. We contend that the effectiveness of aid depends on its sequencing relative to state consolidation: aid delivered into contested territory provokes violence, while aid introduced after the establishment of control helps to reduce it. This pattern holds across multiple conflict phases, with aid most effective during lower-intensity periods and least effective during large-scale military operations. The results are consistent across alternative measures of aid and estimates of territorial control. Together, the findings offer new insight into the political logic of wartime aid and underscore the importance of aligning development interventions with both micro- and macro-level security dynamics. 
 </details>
+
+## Selected Works in Progress
 
 **Taking Out the Competition: Lessons from Algeria on Rebel Targeting of Non-violent Rivals** [co-author with Martin Macias-Medellin, University of Michigan]
 
