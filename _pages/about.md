@@ -17,5 +17,5 @@ Before entering academia, I spent over a decade in the U.S. national security co
 
 I received my Ph.D. in Political Science from the University of Michigan. I also hold an M.I.A. from the University of California San Diego, an M.S. in Strategic Intelligence from the National Intelligence University, and B.A. degrees from American Military University and Indiana University.
 
-My recent work appears in the International Journal of Cyber Warfare and Terrorism, the Minnesota Journal of International Law, and The Hill.
+My recent work appears or is forthcoming in Civil Wars, Inter Populum Journal of Irregular Warfare and Special Operations, the International Journal of Cyber Warfare and Terrorism, the Minnesota Journal of International Law, and The Hill.
 
