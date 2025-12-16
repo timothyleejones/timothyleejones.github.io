@@ -8,19 +8,20 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
+**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain** Timothy L. Jones [co-author with John Willingham and Kenneth Walls], *Inter Populum Journal of Irregular Warfare and Special Operations Fall 2025 3(2) 1-27* [Publisher's Version](https://interpopulum.org/wp-content/uploads/2025/12/Frogmen-and-Fast-Boats.pdf)
+
+<details>
+<summary>Abstract</summary>
+This article examines how Irregular Warfare in the Maritime domain (IW-M) can strengthen national defense strategies for smaller states confronting more powerful naval adversaries. It argues that integrating special operations forces (SOF) into IW-M efforts provides a cost-effective, adaptable approach to defending littoral spaces, imposing costs, and enhancing deterrence. Drawing on historical examples and contemporary force design, this article identifies key conditions for success: strategic purpose, political backing, feasible objectives, and SOF integration. It offers practical insights for defense planners, emphasizing how purpose-built SOF units can address gaps in conventional naval posture. The article also highlights opportunities for SOF to assist partners through training, joint exercises, and low-cost technological adaptation. As great power competition increasingly plays out in contested waters, IW-M offers policymakers and military leaders a scalable, flexible toolset to counter aggression, defend sovereignty, and improve regional resilience—particularly where conventional options may be limited, unaffordable, or politically constrained. 
+</details>
+
+
 **Meta-Analysis & the Integration of Terrorism Event Databases**    
 Timothy L. Jones "Meta-Analysis & the Integration of Terrorism Event Databases," *International Journal of Cyber Warfare & Terrorism (IJCWT) 13 (1), 1-20.* [Publisher's Version](https://www.igi-global.com/article/meta-analysis-and-the-integration-of-terrorism-event-databases/335944)
 
 <details>
 <summary>Abstract</summary>
 Why do terrorist attacks occur in certain places and times but not others? Despite advances in collection and empirical methods, the literature has produced divergent results and reached little consensus for common hypotheses about the economic, political, and social causes of terrorism. It is hard to know what to make disagreements as studies adopt disparate research designs using different datasets covering different locations and times. This article applies the xSub data protocol to conduct a meta-analysis of terrorism event datasets and isolate explanations for variations in findings. Although the datasets are constructed for different purposes by different research teams, with different inclusion standards, processing data onto a common event typology, and conducting analysis across common coverage reduces heterogeneity in findings. This protocol also facilitates comparisons with general conflict event datasets, providing researchers, policymakers, and practitioners with a broader context for understanding terrorism in relation to other forms of violence.  
-</details>
-
-**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain** [Timothy L. Jones, co-author with John Willingham and Kenneth Walls] *Inter Populum Journal of Irregular Warfare and Special Operations Fall 2025 3(2) 1-27* [Publisher's Version](https://interpopulum.org/wp-content/uploads/2025/12/Frogmen-and-Fast-Boats.pdf)
-
-<details>
-<summary>Abstract</summary>
-This article examines how Irregular Warfare in the Maritime domain (IW-M) can strengthen national defense strategies for smaller states confronting more powerful naval adversaries. It argues that integrating special operations forces (SOF) into IW-M efforts provides a cost-effective, adaptable approach to defending littoral spaces, imposing costs, and enhancing deterrence. Drawing on historical examples and contemporary force design, this article identifies key conditions for success: strategic purpose, political backing, feasible objectives, and SOF integration. It offers practical insights for defense planners, emphasizing how purpose-built SOF units can address gaps in conventional naval posture. The article also highlights opportunities for SOF to assist partners through training, joint exercises, and low-cost technological adaptation. As great power competition increasingly plays out in contested waters, IW-M offers policymakers and military leaders a scalable, flexible toolset to counter aggression, defend sovereignty, and improve regional resilience—particularly where conventional options may be limited, unaffordable, or politically constrained. 
 </details>
 
 ## Editor-reviewed Publications
