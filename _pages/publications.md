@@ -8,7 +8,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain** Timothy L. Jones [co-author with John Willingham and Kenneth Walls], *Inter Populum Journal of Irregular Warfare and Special Operations Fall 2025 3(2) 1-27* [Publisher's Version](https://interpopulum.org/wp-content/uploads/2025/12/Frogmen-and-Fast-Boats.pdf)
+**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain** Timothy L. Jones [co-author with John Willingham and Kenneth Walls], *Inter Populum Journal of Irregular Warfare and Special Operations Fall 2025, 3(2), 1-27* [Publisher's Version](https://interpopulum.org/wp-content/uploads/2025/12/Frogmen-and-Fast-Boats.pdf)
 
 <details>
 <summary>Abstract</summary>
