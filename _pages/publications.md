@@ -8,7 +8,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-**Adapting Under Pressure: Diversification of Rebel Violence in Civil Wars**
+**Adapting Under Pressure: Diversification of Rebel Violence in Civil Wars**  
 Timothy L. Jones. "Adapting Under Pressure: Diversification of Rebel Violence in Civil Wars". *Civil Wars* (forthcoming).
 
 <details>
@@ -16,7 +16,7 @@ Timothy L. Jones. "Adapting Under Pressure: Diversification of Rebel Violence in
 Why do some rebel groups diversify portfolios of violence while others specialize? This article argues that repertoire expansion reflects adaptation to fluctuating external state pressure. Analysis of 623 groups across 30 civil wars shows that moderate pressure prompts broader targeting and force combinations, while high pressure contracts portfolios. A natural experiment from Pakistan’s drone campaign reveals diversification—rather than substitution toward softer targets—follows leadership losses. Diversification is correlated with increased operational tempo and survivability but appears to hinder strategic success. These findings advance understanding of civil war dynamics and conditions under which state coercion can inadvertently sustain rebel violence.
 </details>
 
-**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain** 
+**Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain**  
 Timothy L. Jones [co-author with John Willingham and Kenneth Walls]. "Frogmen and Fast Boats: The Future of Irregular Warfare in the Maritime Domain". *Inter Populum Journal of Irregular Warfare and Special Operations Fall 2025, 3(2), 1-27.* [Publisher's Version](https://interpopulum.org/wp-content/uploads/2025/12/Frogmen-and-Fast-Boats.pdf)
 
 <details>
@@ -25,7 +25,7 @@ This article examines how Irregular Warfare in the Maritime domain (IW-M) can st
 </details>
 
 
-**Meta-Analysis & the Integration of Terrorism Event Databases**    
+**Meta-Analysis & the Integration of Terrorism Event Databases**   
 Timothy L. Jones, "Meta-Analysis & the Integration of Terrorism Event Databases," *International Journal of Cyber Warfare & Terrorism (IJCWT) 13 (1), 1-20.* [Publisher's Version](https://www.igi-global.com/article/meta-analysis-and-the-integration-of-terrorism-event-databases/335944)
 
 <details>
